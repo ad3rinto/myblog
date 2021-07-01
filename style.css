@@ -1,0 +1,16 @@
+h1,h2{
+  color: #F28F0C;
+  margin-left: 30PX;
+
+
+
+}
+img {
+  align-content: center;
+  margin-left: 30PX;
+  height: 200PX;
+  width: 300px;
+  border-color: red;
+  border-style: solid;
+  border-width: 2px;
+}
